@@ -1,4 +1,3 @@
-import pytest
 from homework_02.solutions import merge_linked_lists, linked_list_from_array, linked_list_to_array
 
 

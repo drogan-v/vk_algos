@@ -1,4 +1,3 @@
-import pytest
 from homework_02.solutions import middle_node, linked_list_from_array, linked_list_to_array
 
 

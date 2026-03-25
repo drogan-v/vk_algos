@@ -1,4 +1,3 @@
-import pytest
 from homework_02.solutions import is_subsequence
 
 

@@ -1,5 +1,4 @@
 from homework_01.solutions import solution_01
-import pytest
 
 
 # ==================== Базовые тесты ====================

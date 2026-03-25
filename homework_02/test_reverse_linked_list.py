@@ -1,4 +1,3 @@
-import pytest
 from homework_02.solutions import reverse_linked_list, linked_list_from_array, linked_list_to_array
 
 

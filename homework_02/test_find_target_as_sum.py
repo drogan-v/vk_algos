@@ -1,4 +1,3 @@
-import pytest
 from homework_02.solutions import find_target_as_sum
 
 
